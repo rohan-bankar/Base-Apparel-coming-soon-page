@@ -15,7 +15,7 @@ body{
 .container{
     display: flex;
     flex-direction: row;
-    margin: 100px 200px;
+    margin: 80px 200px;
     height: 600px;
     background-color: white;
 }
